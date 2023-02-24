@@ -23,7 +23,7 @@ public class LaboratorioCursos {
 
 			// Procedimiento
 			menuPrincipal();
-			System.out.print("Ingrese su opción [1 al 5]: ");
+			System.out.print("Ingrese su opciÃ³n [1 al 5]: ");
 			opcion = sc.nextInt();
 			
 			switch (opcion) {
